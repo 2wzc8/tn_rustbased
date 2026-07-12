@@ -1,0 +1,2 @@
+# tn_rustbased
+实现了connect,contract,contract_trace,contract_between,outer_product几个基本函数
