@@ -1,0 +1,13 @@
+# 所有.rs源码文件标记为Rust语言
+*.rs linguist-language=Rust
+
+# Cargo项目配置文件归类为Rust项目相关
+Cargo.toml linguist-language=Rust
+Cargo.lock linguist-language=Rust
+
+# 让Makefile不参与语言统计，避免它抢占主语言
+Makefile linguist-detectable=false
+
+# 忽略编译产物、脚本等不参与语言计算
+target/ linguist-vendored
+*.sh linguist-detectable=false
