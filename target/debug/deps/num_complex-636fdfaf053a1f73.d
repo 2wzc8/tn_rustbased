@@ -1,0 +1,11 @@
+C:\Users\wzcsy\Desktop\暑假\google_TensorNetwork\rust_tensornetwork\target\debug\deps\num_complex-636fdfaf053a1f73.d: C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\lib.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\cast.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\pow.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\complex_float.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\crand.rs
+
+C:\Users\wzcsy\Desktop\暑假\google_TensorNetwork\rust_tensornetwork\target\debug\deps\libnum_complex-636fdfaf053a1f73.rlib: C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\lib.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\cast.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\pow.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\complex_float.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\crand.rs
+
+C:\Users\wzcsy\Desktop\暑假\google_TensorNetwork\rust_tensornetwork\target\debug\deps\libnum_complex-636fdfaf053a1f73.rmeta: C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\lib.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\cast.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\pow.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\complex_float.rs C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\crand.rs
+
+C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\lib.rs:
+C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\cast.rs:
+C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\pow.rs:
+C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\complex_float.rs:
+C:\Users\wzcsy\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num-complex-0.4.6\src\crand.rs:
