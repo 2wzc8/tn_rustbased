@@ -1,0 +1,11 @@
+[package]
+name = "rust_tensornetwork"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+slab = "0.4"
+ndarray = "0.16"
+
+[dev-dependencies]
+rand = "0.8"
